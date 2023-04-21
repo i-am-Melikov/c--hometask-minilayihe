@@ -1,0 +1,15 @@
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\bin\Debug\net6.0\EmployeApp.Data.deps.json
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\bin\Debug\net6.0\EmployeApp.Data.dll
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\bin\Debug\net6.0\EmployeApp.Data.pdb
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\bin\Debug\net6.0\EmployeApp.Core.dll
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\bin\Debug\net6.0\EmployeApp.Core.pdb
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.csproj.AssemblyReference.cache
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.AssemblyInfoInputs.cache
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.AssemblyInfo.cs
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.csproj.CopyComplete
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.dll
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\refint\EmployeApp.Data.dll
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\EmployeApp.Data.pdb
+C:\Users\mmmma\source\repos\EmployeApp.App\EmployeApp.Data\obj\Debug\net6.0\ref\EmployeApp.Data.dll
